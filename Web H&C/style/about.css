@@ -1,0 +1,39 @@
+section{
+    margin-top: 60px;
+}
+h1{
+    
+    color: #BA882C;
+}
+h2{
+    color: #77858c;
+}
+
+.hServices{
+    display: block;
+    text-decoration: none;
+    color: #77858c;
+    font-weight: bolder;
+}
+
+
+.container{
+
+    padding: 5%;
+}
+p{
+    text-align: justify;
+}
+.company-motto {
+    margin-top: 5%;
+    margin-bottom: 5%;
+   
+}
+.company-motto h2{
+    color: #6c757d;
+}
+.corporate-values{
+margin-left: 10%;
+
+
+}

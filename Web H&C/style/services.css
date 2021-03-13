@@ -1,0 +1,22 @@
+section{
+    margin-top: 60px;
+}
+#title{
+    color: #BA882C;
+}
+
+.hServices{
+    display: block;
+    text-decoration: none;
+    color: #77858c;
+    font-weight: bolder;
+}
+
+#asesoriaLegal , #consultoriaFinanciera{
+    width: 100%;
+    padding-left: 20px;
+}
+.container{
+
+    padding: 5%;
+}

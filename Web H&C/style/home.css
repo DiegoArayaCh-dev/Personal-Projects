@@ -1,0 +1,12 @@
+#title{
+    text-decoration: none;
+    color: #BA882C;
+}
+#banner{
+    display: block;
+    position: fixed;
+    margin: 0;
+    z-index: 200000;
+    width: 100%;
+    background-color: #BA882C;
+}

@@ -1,0 +1,52 @@
+form{
+    float: right;
+    width: 70%;
+}
+.form-row{
+    margin-bottom: 10px;
+}
+#points-contact{
+    width: 30%;
+   float: left;
+    margin-left: 3%;
+}
+#points-contact h4{
+    text-decoration: none;
+    color: #9f9f9f;
+}
+#points-contact p{
+    text-decoration: none;
+    color: #363636;
+}
+#title{
+    margin-top: 10%;
+    margin-bottom: 2%;
+}
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    #points-contact{
+       
+       float: none;
+      
+    }
+    form{
+        width: 100%;
+        float: none;
+       padding: 10px;
+    }
+    #title{
+        margin-top: 20%;
+    }
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {}
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {}
